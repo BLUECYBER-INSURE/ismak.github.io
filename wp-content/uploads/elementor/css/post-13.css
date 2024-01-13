@@ -1,0 +1,82 @@
+.elementor-kit-13 {
+  --e-global-color-primary: #C3317D;
+  --e-global-color-secondary: #2F3742;
+  --e-global-color-text: #7A7A7A;
+  --e-global-color-accent: #61CE70;
+  --e-global-typography-primary-font-family: "Roboto";
+  --e-global-typography-primary-font-weight: 600;
+  --e-global-typography-secondary-font-family: "Roboto Slab";
+  --e-global-typography-secondary-font-weight: 400;
+  --e-global-typography-text-font-family: "Roboto";
+  --e-global-typography-text-font-weight: 400;
+  --e-global-typography-accent-font-family: "Roboto";
+  --e-global-typography-accent-font-weight: 500;
+}
+
+.elementor-section.elementor-section-boxed>.elementor-container {
+  max-width: 1140px;
+}
+
+.e-con {
+  --container-max-width: 1140px;
+}
+
+.elementor-widget:not(:last-child) {
+  margin-bottom: 0px;
+}
+
+.elementor-element {
+  --widgets-spacing: 0px;
+}
+
+  {}
+
+h1.entry-title {
+  display: var(--page-title-display);
+}
+
+.elementor-kit-13 e-page-transition {
+  background-color: #FFBC7D;
+}
+
+@media(max-width:1024px) {
+  .elementor-section.elementor-section-boxed>.elementor-container {
+    max-width: 1024px;
+  }
+
+  .e-con {
+    --container-max-width: 1024px;
+  }
+}
+
+@media(max-width:767px) {
+  .elementor-section.elementor-section-boxed>.elementor-container {
+    max-width: 767px;
+  }
+
+  .e-con {
+    --container-max-width: 767px;
+  }
+}
+
+/*
+     FILE ARCHIVED ON 19:40:24 May 12, 2023 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:32:34 Jan 13, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 845.957
+  exclusion.robots: 0.106
+  exclusion.robots.policy: 0.092
+  cdx.remote: 0.074
+  esindex: 0.012
+  LoadShardBlock: 803.397 (3)
+  PetaboxLoader3.resolve: 289.203 (3)
+  PetaboxLoader3.datanode: 755.824 (5)
+  load_resource: 250.714
+  loaddict: 37.152
+*/
